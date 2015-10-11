@@ -8,7 +8,7 @@ namespace Week_09
     /// This is the main type for your game.
     /// make some change and commit
     /// commit to my branch 1
-    /// commit to my branch 2
+    /// commit to my branch 2.
     /// </summary>
     public class Game1 : Game
     {
